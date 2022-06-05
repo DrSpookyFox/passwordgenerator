@@ -1,5 +1,3 @@
-# Password Generator Starter Code
-
 This is a password generator that can make a unique password up to 30 characters and include special characters, uppercase, and lowercase.
 
 
